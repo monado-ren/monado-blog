@@ -8,7 +8,8 @@ menu:
 ---
 
 因为优化网络质量和服务器升级需要更多的资金，故开设[爱发电](http://afdian.net/@monado_ren)捐助渠道，希望大家支持:
-<a href="http://afdian.net/@monado_ren"><img src="/assets/afdian.svg" alt="爱发电" width="300"/></a>
+
+<a href="http://afdian.net/@monado_ren"><img src="https://blog.monado.ren/assets/afdian.svg" alt="爱发电" width="300"/></a>
 
 本捐助页旨在为Monado社区筹集运营所需的必要费用，包括但不限于服务器、CDN、对象存储等费用 。你可以在[财务报表](https://blog.monado.ren/finance/statements/)里了解所需的费用。 
 
