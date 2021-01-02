@@ -1,5 +1,6 @@
 ---
 title: 捐助历史
+description: 感谢大家的支持！本页不定期更新...
 menu:
   docs:
     weight: 30
