@@ -4,7 +4,7 @@ description: 阿吧阿吧阿吧
 menu:
   docs:
     weight: 10
-    parent: more
+    parent: donate
 ---
 
 {{< hint style="info" >}}
