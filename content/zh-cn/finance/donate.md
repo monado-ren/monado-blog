@@ -3,8 +3,8 @@ title: 捐助我们
 description: 阿吧阿吧阿吧
 menu:
   docs:
-    weight: 10
-    parent: donate
+    weight: 20
+    parent: finance
 ---
 
 {{< hint style="info" >}}
