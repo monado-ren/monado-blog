@@ -1,0 +1,34 @@
+baseURL = "https://blog.monado.ren/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+title = "Monado Blog"
+pygmentsCodeFences = true
+pygmentsStyle = "dracula"
+metaDataFormat = "yaml"
+paginate = 100
+enableGitInfo = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1
+
+[languages.zh-cn.menu]
+  #[[languages.zh-cn.menu.docs]]
+    #name = "关于Monado"
+    #weight = 5
+    #identifier = "about"
+    #url = "/about/"
+
+    [[languages.zh-cn.menu.docs]]
+    name = "捐助我们"
+    weight = 10
+    identifier = "donate"
+    url = "/donate/"
+
+[languages]
+  [languages.zh-cn]
+    contentDir = "content/zh-cn"
+    languageName = "简体中文"
+    weight = 1
