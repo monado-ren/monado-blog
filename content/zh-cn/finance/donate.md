@@ -21,8 +21,9 @@ menu:
 
 | 方案 | 金额 | 回报 |
 | :--- | :--- | :--- |
-| 废品剑 | 5/月 | 没想好 |
-| 蒙纳多Ⅰ | 10/月 | 没想好 |
-| 蒙纳多Ⅱ | 20/月 | 没想好 |
-| 蒙纳多Ⅲ | 30/月 | 没想好 |
-| 三位一体处理器 | 60/月 | 没想好 |
+| [自选金额](http://afdian.net/order/create?user_id=053eec24f9ac11eaae1652540025c377) | 自选金额/月 | 没想好 |
+| [废品剑](http://afdian.net/order/create?plan_id=2c285732475711eb89fa52540025c377) | ¥5.00/月 | 没想好 |
+| [蒙纳多Ⅰ](http://afdian.net/order/create?plan_id=8fcc951e475711ebb11d52540025c377) | ¥10.00/月 | 没想好 |
+| [蒙纳多Ⅱ](http://afdian.net/order/create?plan_id=9d7b1316475711eb807552540025c377) | ¥20.00/月 | 没想好 |
+| [蒙纳多Ⅲ](http://afdian.net/order/create?plan_id=ab563e48475711eb848b52540025c377) | ¥30.00/月 | 没想好 |
+| [三位一体处理器](http://afdian.net/order/create?plan_id=924c7f26476011ebb1ad52540025c377) | ¥60.00/月 | 没想好 |
