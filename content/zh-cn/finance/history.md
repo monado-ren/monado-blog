@@ -14,3 +14,4 @@ menu:
 | 2020-12-30 | @yukineeeru@monado.ren | 30 | 爱发电 |
 | 2020-12-30 | @lotus@monado.ren | 60 | 爱发电 |
 | 2021-01-01 | @dzcsings@monado.ren | 30 | 爱发电 |
+| 2021-01-03 | @Tyvoir@monado.ren | 10 | 爱发电 |
