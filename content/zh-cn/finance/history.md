@@ -18,4 +18,9 @@ menu:
 | 2021-01-03 | 犬藻田 | 120 | 爱发电 |
 | 2021-01-03 | 夏日知道 | 60 | 爱发电 |
 | 2021-01-04 | @nian_gao@monado.ren | 60 | 爱发电 |
-| 2021-01-04 | @minaoto@monado.ren | 30 | 爱发电 |
+| 2021-01-04 | @accelorder@monado.ren | 57.92 | 爱发电 |
+| 2021-01-05 | 爱发电用户_XFMh | 10 | 爱发电 |
+| 2021-01-08 | @omchiaria@monado.ren | 30 | 爱发电 |
+| 2021-01-12 | @Mannii@monado.ren | 10 | 爱发电 |
+| 2021-02-10 | @lotus@monado.ren | 60 | 爱发电 |
+| 2021-02-14 | @Mannii@monado.ren | 10 | 爱发电 |
