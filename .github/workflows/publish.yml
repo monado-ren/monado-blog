@@ -23,7 +23,6 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
-        external_repository: tomial/tomial.github.io
+        github_token: ${{ secrets.GITHUB_TOKEN }} 
         publish_dir: ./public
         publish_branch: pages
